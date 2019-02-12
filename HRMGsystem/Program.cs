@@ -12,6 +12,7 @@ namespace HRMGsystem
         {
             Console.Write("helo");
             Console.Write("World");
+            Console.Write("orld");
         }
     }
 }
