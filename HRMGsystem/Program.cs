@@ -10,6 +10,7 @@ namespace HRMGsystem
     {
         static void Main(string[] args)
         {
+            Console.Write("helo");
         }
     }
 }
