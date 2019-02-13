@@ -11,6 +11,7 @@ namespace HRMGsystem
         static void Main(string[] args)
         {
             Console.Write("helo");
+            Console.Write("World");
         }
     }
 }
